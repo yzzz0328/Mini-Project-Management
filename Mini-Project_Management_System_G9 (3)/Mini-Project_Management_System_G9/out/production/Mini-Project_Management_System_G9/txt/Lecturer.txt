@@ -1,0 +1,7 @@
+L00001    Abcd1234    Lee loo laa    Lecturer
+L00002    Abcd1234    Laa loo lee    Lecturer
+L00003    Abcd1234    Loo loo laa    Lecturer
+L00004    Abcd1234    Lat loo laa    Lecturer
+L00005    Abcd1234    Ng Ha Hu    Lecturer
+L00007    Abcd1234    Abu ABu    Lecturer
+L00009    Abcd1234    Kenny    Lecturer

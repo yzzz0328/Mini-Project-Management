@@ -1,0 +1,9 @@
+S00001    Abcd1234    Adam    Student    Software Engineering    null
+S00002    Abcd1234    Alicia    Student    Cybersecurity    CS00001
+S00003    Abcd1234    Abu    Student    Data Science    DS00001
+S00004    Abcd1234    Anna    Student    Game Development    null
+S00005    Abcd1234    Hebry Lee    Student    Data Science    null
+S00006    Abcd1234    Lalala    Student    Data Science    null
+S00007    Abcd1234    Teo Yih Shing    Student    Cybersecurity    null
+S00009    Abcd1234    Patricia Lee    Student    Software Engineering    null
+S00008    Abcd1234    Amanda    Student    Game Development    GD00001

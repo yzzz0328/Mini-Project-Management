@@ -1,0 +1,7 @@
+SE00001    Online Project Management System    Software Engineering    L00001    Lee loo laa    null    null    Active
+SE00002    Online User Management System    Software Engineering    L00002    Laa loo lee    S00009    Patricia Lee    Active
+CS00001    Online Payment Management System    Cybersecurity    L00003    Loo loo laa    null    null    Active
+DS00001    Online Data Mining Project    Data Science    L00002    Laa loo lee    null    null    Inactive
+GD00001    Whack A Mole    Game Development    L00003    Loo loo laa    S00008    Amanda    Active
+GD00003    Adam's Restaurant    Game Development    L00009    Kenny    null    null    Inactive
+SE00004    Online Shop View System    Software Engineering    L00005    Ng Ha Hu    null    null    Inactive
